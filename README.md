@@ -12,7 +12,7 @@ The PC Search Application is a desktop utility developed in Python for efficient
 
 ## Usage
 
-1. Download the executable file from the [Releases](https://github.com/yourusername/pc-search/releases) section.
+1. Download the executable file from the https://github.com/mahesh042/File-Finder-PC-Windows section.
 2. Double-click the executable to launch the application.
 3. Enter the file name you want to search for in the input field.
 4. Click the "Search" button to initiate the search.
@@ -29,7 +29,13 @@ The PC Search Application is a desktop utility developed in Python for efficient
 
 ## Building from Source
 
-1. Clone the repository: git clone https://github.com/yourusername/pc-search.git
+1. Clone the repository: git clone https://github.com/mahesh042/File-Finder-PC-Windows.git 
 
-2. Navigate to the project directory: 
+2. Run the application: python pc_search.py
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Happy coding!
+
 
